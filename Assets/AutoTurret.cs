@@ -101,7 +101,8 @@ public class AutoTurret : MonoBehaviour
         if (shootPoint == null)
             return;
 
-        Instantiate(
+        Instantiate( 
+
             missilePrefab,
             shootPoint.position,
             shootPoint.rotation

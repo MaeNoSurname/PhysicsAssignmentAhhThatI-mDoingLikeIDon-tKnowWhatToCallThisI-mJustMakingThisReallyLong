@@ -8299,7 +8299,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9185060499284190444, guid: b779abea15df22547bbdee85e8121e9f, type: 3}
       propertyPath: ReloadTime
-      value: 0.7
+      value: 0.9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
