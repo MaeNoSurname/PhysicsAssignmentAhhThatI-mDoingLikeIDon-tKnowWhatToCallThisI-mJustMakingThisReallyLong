@@ -2,3 +2,10 @@ path/to/your/folder/** filter=lfs diff=lfs merge=lfs -text
 C:/Users/Admin/Physics[[:space:]]Gameplay[[:space:]]Gym[[:space:]](I[[:space:]]see[[:space:]]you)" filter=lfs diff=lfs merge=lfs -text
 C:/Users/Admin/Physics[[:space:]]Gameplay[[:space:]]Gym[[:space:]](I[[:space:]]see[[:space:]]you) filter=lfs diff=lfs merge=lfs -text
 C:/Users/Admin/Physics[[:space:]]Gameplay[[:space:]]Gym[[:space:]](I[[:space:]]see[[:space:]]you)/** filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
